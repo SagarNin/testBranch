@@ -1,0 +1,7 @@
+
+
+class ChildClass extends BaseClass
+{
+
+}
+
